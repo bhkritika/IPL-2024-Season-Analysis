@@ -1,6 +1,6 @@
 # IPL 2024 Season Analysis
 
-This project analyzes the IPL 2024 season using data on batting, bowling, match details, and summaries. The goal is to provide insights into player performance and match outcomes using Python and Tableau.
+This project analyzes the IPL 2024 season using data on batting, bowling, match details, and summaries. The goal is to provide insights into player performance and match outcomes using Python.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
